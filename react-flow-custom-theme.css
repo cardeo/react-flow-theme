@@ -1,0 +1,46 @@
+/* Edge styles */
+--xy-edge-stroke-default: #F2F2F2;
+--xy-edge-stroke-width-default: 1;
+--xy-edge-stroke-selected-default: #A8A29E;
+
+/* Connection line styles */
+--xy-connectionline-stroke-default: #D6D3D1;
+--xy-connectionline-stroke-width-default: 1;
+
+/* Attribution background color */
+--xy-attribution-background-color-default: rgba(255, 255, 255, 0.5);
+
+/* MiniMap background color */
+--xy-minimap-background-color-default: #fff;
+
+/* Background pattern colors */
+--xy-background-pattern-dots-color-default: #78716C;
+--xy-background-pattern-line-color-default: #F2F2F2;
+--xy-background-pattern-cross-color-default: #D6D3D1;
+
+/* Node styles */
+--xy-node-color-default: inherit;
+--xy-node-border-default: 1px solid #44403C;
+--xy-node-background-color-default: #fff;
+--xy-node-group-background-color-default: rgba(245, 245, 245, 0.4);
+--xy-node-boxshadow-hover-default: 0 1px 4px 1px rgba(0, 0, 0, 0.08);
+--xy-node-boxshadow-selected-default: 0 0 0 0.5px #44403C;
+
+/* Handle styles */
+--xy-handle-background-color-default: #44403C;
+--xy-handle-border-color-default: #fff;
+
+/* Selection styles */
+--xy-selection-background-color-default: #F3FAFF;
+--xy-selection-border-default: 1px dotted #2B6CB0;
+
+/* Controls styles */
+--xy-controls-button-background-color-default: #FAFAFA;
+--xy-controls-button-background-color-hover-default: #F2F2F2;
+--xy-controls-button-color-default: inherit;
+--xy-controls-button-color-hover-default: inherit;
+--xy-controls-button-border-color-default: #E7E5E4;
+--xy-controls-box-shadow-default: 0 0 2px 1px rgba(0, 0, 0, 0.08);
+
+/* Resize control background color */
+--xy-resize-background-color-default: #2B6CB0;
