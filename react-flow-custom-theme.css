@@ -20,7 +20,7 @@
 
 /* Node styles */
 --xy-node-color-default: inherit;
---xy-node-border-default: 1px solid #44403C;
+--xy-node-border-default: 1px solid #F2F2F2;
 --xy-node-background-color-default: #fff;
 --xy-node-group-background-color-default: rgba(245, 245, 245, 0.4);
 --xy-node-boxshadow-hover-default: 0 1px 4px 1px rgba(0, 0, 0, 0.08);
